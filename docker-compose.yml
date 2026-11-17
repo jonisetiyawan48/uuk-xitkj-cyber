@@ -1,0 +1,80 @@
+services:
+  db:
+    image: mariadb:11.4
+    restart: unless-stopped
+    environment:
+      MARIADB_DATABASE: "${UUK_DB_NAME:-moklet_uuk}"
+      MARIADB_USER: "${UUK_DB_USER:-moklet}"
+      MARIADB_PASSWORD: "${UUK_DB_PASSWORD:-MokletDatabase2026!}"
+      MARIADB_ROOT_PASSWORD: "${UUK_DB_ROOT_PASSWORD:-MokletRoot2026!}"
+    ports:
+      - "127.0.0.1:${UUK_DB_PORT:-3307}:3306"
+    volumes:
+      - uuk_mariadb_data:/var/lib/mysql
+    healthcheck:
+      test: ["CMD", "healthcheck.sh", "--connect", "--innodb_initialized"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+      start_period: 30s
+  uuk-target:
+    build: .
+    container_name: moklet-uuk-portal-full
+    restart: unless-stopped
+    ports:
+      - "3000:1992"
+      - "2122:21"
+      - "8081:8080"
+      - "8054:53/udp"
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      UUK_DB_HOST: db
+      UUK_DB_PORT: 3306
+      UUK_DB_NAME: "${UUK_DB_NAME:-moklet_uuk}"
+      UUK_DB_USER: "${UUK_DB_USER:-moklet}"
+      UUK_DB_PASSWORD: "${UUK_DB_PASSWORD:-MokletDatabase2026!}"
+      UUK_DEMO_PASSWORD: "${UUK_DEMO_PASSWORD:-MokletLab2026!}"
+      UUK_INSTANCE: "LATIHAN-FULL-01"
+      UUK_RESET_KEY: "${UUK_RESET_KEY:?Set UUK_RESET_KEY in .env}"
+      UUK_ENABLE_RCE_LAB: "${UUK_ENABLE_RCE_LAB:-false}"
+    volumes:
+      - uuk_full_data:/data
+    networks:
+      - default
+      - rce-isolated
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+    cap_add:
+      - NET_BIND_SERVICE
+    read_only: true
+    tmpfs:
+      - /tmp:size=64m
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://127.0.0.1:1992/health').then(r=>{if(!r.ok)process.exit(1)}).catch(()=>process.exit(1))"]
+      interval: 20s
+      timeout: 5s
+      retries: 3
+  rce-lab:
+    build: ./lab
+    profiles: ["rce"]
+    restart: unless-stopped
+    networks: [rce-isolated]
+    read_only: true
+    init: true
+    tmpfs:
+      - /tmp:size=16m,mode=1777
+    cap_drop: [ALL]
+    security_opt: ["no-new-privileges:true"]
+    pids_limit: 32
+    mem_limit: 96m
+    cpus: 0.5
+networks:
+  rce-isolated:
+    internal: true
+volumes:
+  uuk_mariadb_data:
+  uuk_full_data:

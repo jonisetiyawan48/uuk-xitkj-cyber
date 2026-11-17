@@ -1,0 +1,1964 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Aditya Pratama",
+      "department": "Engineering",
+      "email": "aditya.pratama@moklet.example",
+      "position": "Software Engineer",
+      "phone": "+62 812 1000 1000",
+      "status": "On Leave"
+    },
+    {
+      "id": 2,
+      "name": "Nadia Putri",
+      "department": "Cyber Security",
+      "email": "nadia.putri@moklet.example",
+      "position": "Analyst",
+      "phone": "+62 812 1000 1001",
+      "status": "Active"
+    },
+    {
+      "id": 3,
+      "name": "Rizky Maulana",
+      "department": "Operations",
+      "email": "rizky.maulana@moklet.example",
+      "position": "IT Specialist",
+      "phone": "+62 812 1000 1002",
+      "status": "Active"
+    },
+    {
+      "id": 4,
+      "name": "Dina Maharani",
+      "department": "Human Resources",
+      "email": "dina.maharani@moklet.example",
+      "position": "Coordinator",
+      "phone": "+62 812 1000 1003",
+      "status": "Active"
+    },
+    {
+      "id": 5,
+      "name": "Bima Saputra",
+      "department": "Finance",
+      "email": "bima.saputra@moklet.example",
+      "position": "Software Engineer",
+      "phone": "+62 812 1000 1004",
+      "status": "Active"
+    },
+    {
+      "id": 6,
+      "name": "Sarah Amelia",
+      "department": "Marketing",
+      "email": "sarah.amelia@moklet.example",
+      "position": "Analyst",
+      "phone": "+62 812 1000 1005",
+      "status": "Active"
+    },
+    {
+      "id": 7,
+      "name": "Fajar Nugroho",
+      "department": "Engineering",
+      "email": "fajar.nugroho@moklet.example",
+      "position": "IT Specialist",
+      "phone": "+62 812 1000 1006",
+      "status": "Active"
+    },
+    {
+      "id": 8,
+      "name": "Laras Ayu",
+      "department": "Cyber Security",
+      "email": "laras.ayu@moklet.example",
+      "position": "Coordinator",
+      "phone": "+62 812 1000 1007",
+      "status": "Active"
+    },
+    {
+      "id": 9,
+      "name": "Dimas Prakoso",
+      "department": "Operations",
+      "email": "dimas.prakoso@moklet.example",
+      "position": "Software Engineer",
+      "phone": "+62 812 1000 1008",
+      "status": "Active"
+    },
+    {
+      "id": 10,
+      "name": "Nabila Zahra",
+      "department": "Human Resources",
+      "email": "nabila.zahra@moklet.example",
+      "position": "Analyst",
+      "phone": "+62 812 1000 1009",
+      "status": "On Leave"
+    },
+    {
+      "id": 11,
+      "name": "Raka Wijaya",
+      "department": "Finance",
+      "email": "raka.wijaya@moklet.example",
+      "position": "IT Specialist",
+      "phone": "+62 812 1000 1010",
+      "status": "Active"
+    },
+    {
+      "id": 12,
+      "name": "Citra Anindya",
+      "department": "Marketing",
+      "email": "citra.anindya@moklet.example",
+      "position": "Coordinator",
+      "phone": "+62 812 1000 1011",
+      "status": "Active"
+    },
+    {
+      "id": 13,
+      "name": "Kevin Wicaksono",
+      "department": "Engineering",
+      "email": "kevin.wicaksono@moklet.example",
+      "position": "Software Engineer",
+      "phone": "+62 812 1000 1012",
+      "status": "Active"
+    },
+    {
+      "id": 14,
+      "name": "Tasya Maharani",
+      "department": "Cyber Security",
+      "email": "tasya.maharani@moklet.example",
+      "position": "Analyst",
+      "phone": "+62 812 1000 1013",
+      "status": "Active"
+    },
+    {
+      "id": 15,
+      "name": "Daffa Ramadhan",
+      "department": "Operations",
+      "email": "daffa.ramadhan@moklet.example",
+      "position": "IT Specialist",
+      "phone": "+62 812 1000 1014",
+      "status": "Active"
+    },
+    {
+      "id": 16,
+      "name": "Aurel Zahra",
+      "department": "Human Resources",
+      "email": "aurel.zahra@moklet.example",
+      "position": "Coordinator",
+      "phone": "+62 812 1000 1015",
+      "status": "Active"
+    },
+    {
+      "id": 17,
+      "name": "Reza Maulana",
+      "department": "Finance",
+      "email": "reza.maulana@moklet.example",
+      "position": "Software Engineer",
+      "phone": "+62 812 1000 1016",
+      "status": "Active"
+    },
+    {
+      "id": 18,
+      "name": "Dewi Kartika",
+      "department": "Marketing",
+      "email": "dewi.kartika@moklet.example",
+      "position": "Analyst",
+      "phone": "+62 812 1000 1017",
+      "status": "Active"
+    },
+    {
+      "id": 19,
+      "name": "Bagas Arya",
+      "department": "Engineering",
+      "email": "bagas.arya@moklet.example",
+      "position": "IT Specialist",
+      "phone": "+62 812 1000 1018",
+      "status": "On Leave"
+    },
+    {
+      "id": 20,
+      "name": "Zahra Amelia",
+      "department": "Cyber Security",
+      "email": "zahra.amelia@moklet.example",
+      "position": "Coordinator",
+      "phone": "+62 812 1000 1019",
+      "status": "Active"
+    },
+    {
+      "id": 21,
+      "name": "Putra Fadillah",
+      "department": "Operations",
+      "email": "putra.fadillah@moklet.example",
+      "position": "Software Engineer",
+      "phone": "+62 812 1000 1020",
+      "status": "Active"
+    },
+    {
+      "id": 22,
+      "name": "Nisa Amalia",
+      "department": "Human Resources",
+      "email": "nisa.amalia@moklet.example",
+      "position": "Analyst",
+      "phone": "+62 812 1000 1021",
+      "status": "Active"
+    },
+    {
+      "id": 23,
+      "name": "Rafi Akbar",
+      "department": "Finance",
+      "email": "rafi.akbar@moklet.example",
+      "position": "IT Specialist",
+      "phone": "+62 812 1000 1022",
+      "status": "Active"
+    },
+    {
+      "id": 24,
+      "name": "Hana Kirana",
+      "department": "Marketing",
+      "email": "hana.kirana@moklet.example",
+      "position": "Coordinator",
+      "phone": "+62 812 1000 1023",
+      "status": "Active"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Infrastructure Modernization",
+      "status": "Active",
+      "owner": "Aditya Pratama",
+      "budget": 7000000,
+      "progress": 21,
+      "deadline": "2026-12-10",
+      "description": "Cross-functional initiative for infrastructure modernization"
+    },
+    {
+      "id": 2,
+      "title": "Employee Self Service",
+      "status": "Planning",
+      "owner": "Nadia Putri",
+      "budget": 10500000,
+      "progress": 38,
+      "deadline": "2026-12-11",
+      "description": "Cross-functional initiative for employee self service"
+    },
+    {
+      "id": 3,
+      "title": "Zero Trust Initiative",
+      "status": "Review",
+      "owner": "Rizky Maulana",
+      "budget": 14000000,
+      "progress": 55,
+      "deadline": "2026-12-12",
+      "description": "Cross-functional initiative for zero trust initiative"
+    },
+    {
+      "id": 4,
+      "title": "Cloud Migration",
+      "status": "Completed",
+      "owner": "Dina Maharani",
+      "budget": 17500000,
+      "progress": 72,
+      "deadline": "2026-12-13",
+      "description": "Cross-functional initiative for cloud migration"
+    },
+    {
+      "id": 5,
+      "title": "Security Operations Center",
+      "status": "Active",
+      "owner": "Bima Saputra",
+      "budget": 21000000,
+      "progress": 89,
+      "deadline": "2026-12-14",
+      "description": "Cross-functional initiative for security operations center"
+    },
+    {
+      "id": 6,
+      "title": "Mobile Experience",
+      "status": "Planning",
+      "owner": "Sarah Amelia",
+      "budget": 24500000,
+      "progress": 5,
+      "deadline": "2026-12-15",
+      "description": "Cross-functional initiative for mobile experience"
+    },
+    {
+      "id": 7,
+      "title": "Digital Workplace",
+      "status": "Review",
+      "owner": "Fajar Nugroho",
+      "budget": 28000000,
+      "progress": 22,
+      "deadline": "2026-12-16",
+      "description": "Cross-functional initiative for digital workplace"
+    },
+    {
+      "id": 8,
+      "title": "IT Service Optimization",
+      "status": "Completed",
+      "owner": "Laras Ayu",
+      "budget": 31500000,
+      "progress": 39,
+      "deadline": "2026-12-17",
+      "description": "Cross-functional initiative for it service optimization"
+    },
+    {
+      "id": 9,
+      "title": "Network Refresh",
+      "status": "Active",
+      "owner": "Dimas Prakoso",
+      "budget": 35000000,
+      "progress": 56,
+      "deadline": "2026-12-18",
+      "description": "Cross-functional initiative for network refresh"
+    },
+    {
+      "id": 10,
+      "title": "Data Analytics Platform",
+      "status": "Planning",
+      "owner": "Nabila Zahra",
+      "budget": 38500000,
+      "progress": 73,
+      "deadline": "2026-12-19",
+      "description": "Cross-functional initiative for data analytics platform"
+    },
+    {
+      "id": 11,
+      "title": "Asset Lifecycle",
+      "status": "Review",
+      "owner": "Raka Wijaya",
+      "budget": 42000000,
+      "progress": 90,
+      "deadline": "2026-12-20",
+      "description": "Cross-functional initiative for asset lifecycle"
+    },
+    {
+      "id": 12,
+      "title": "Project Orion",
+      "status": "Completed",
+      "owner": "Citra Anindya",
+      "budget": 45500000,
+      "progress": 6,
+      "deadline": "2026-12-21",
+      "description": "Cross-functional initiative for project orion"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "project_id": 1,
+      "title": "Gather requirements",
+      "assignee": "Aditya Pratama",
+      "status": "To Do",
+      "priority": "Low",
+      "due": "2026-11-14"
+    },
+    {
+      "id": 2,
+      "project_id": 1,
+      "title": "Implementation sprint",
+      "assignee": "Nadia Putri",
+      "status": "In Progress",
+      "priority": "Medium",
+      "due": "2026-11-15"
+    },
+    {
+      "id": 3,
+      "project_id": 1,
+      "title": "Quality review",
+      "assignee": "Rizky Maulana",
+      "status": "Done",
+      "priority": "High",
+      "due": "2026-11-16"
+    },
+    {
+      "id": 4,
+      "project_id": 2,
+      "title": "Gather requirements",
+      "assignee": "Nadia Putri",
+      "status": "In Progress",
+      "priority": "Low",
+      "due": "2026-11-14"
+    },
+    {
+      "id": 5,
+      "project_id": 2,
+      "title": "Implementation sprint",
+      "assignee": "Rizky Maulana",
+      "status": "Done",
+      "priority": "Medium",
+      "due": "2026-11-15"
+    },
+    {
+      "id": 6,
+      "project_id": 2,
+      "title": "Quality review",
+      "assignee": "Dina Maharani",
+      "status": "To Do",
+      "priority": "High",
+      "due": "2026-11-16"
+    },
+    {
+      "id": 7,
+      "project_id": 3,
+      "title": "Gather requirements",
+      "assignee": "Rizky Maulana",
+      "status": "Done",
+      "priority": "Low",
+      "due": "2026-11-14"
+    },
+    {
+      "id": 8,
+      "project_id": 3,
+      "title": "Implementation sprint",
+      "assignee": "Dina Maharani",
+      "status": "To Do",
+      "priority": "Medium",
+      "due": "2026-11-15"
+    },
+    {
+      "id": 9,
+      "project_id": 3,
+      "title": "Quality review",
+      "assignee": "Bima Saputra",
+      "status": "In Progress",
+      "priority": "High",
+      "due": "2026-11-16"
+    },
+    {
+      "id": 10,
+      "project_id": 4,
+      "title": "Gather requirements",
+      "assignee": "Dina Maharani",
+      "status": "To Do",
+      "priority": "Low",
+      "due": "2026-11-14"
+    },
+    {
+      "id": 11,
+      "project_id": 4,
+      "title": "Implementation sprint",
+      "assignee": "Bima Saputra",
+      "status": "In Progress",
+      "priority": "Medium",
+      "due": "2026-11-15"
+    },
+    {
+      "id": 12,
+      "project_id": 4,
+      "title": "Quality review",
+      "assignee": "Sarah Amelia",
+      "status": "Done",
+      "priority": "High",
+      "due": "2026-11-16"
+    },
+    {
+      "id": 13,
+      "project_id": 5,
+      "title": "Gather requirements",
+      "assignee": "Bima Saputra",
+      "status": "In Progress",
+      "priority": "Low",
+      "due": "2026-11-14"
+    },
+    {
+      "id": 14,
+      "project_id": 5,
+      "title": "Implementation sprint",
+      "assignee": "Sarah Amelia",
+      "status": "Done",
+      "priority": "Medium",
+      "due": "2026-11-15"
+    },
+    {
+      "id": 15,
+      "project_id": 5,
+      "title": "Quality review",
+      "assignee": "Fajar Nugroho",
+      "status": "To Do",
+      "priority": "High",
+      "due": "2026-11-16"
+    },
+    {
+      "id": 16,
+      "project_id": 6,
+      "title": "Gather requirements",
+      "assignee": "Sarah Amelia",
+      "status": "Done",
+      "priority": "Low",
+      "due": "2026-11-14"
+    },
+    {
+      "id": 17,
+      "project_id": 6,
+      "title": "Implementation sprint",
+      "assignee": "Fajar Nugroho",
+      "status": "To Do",
+      "priority": "Medium",
+      "due": "2026-11-15"
+    },
+    {
+      "id": 18,
+      "project_id": 6,
+      "title": "Quality review",
+      "assignee": "Laras Ayu",
+      "status": "In Progress",
+      "priority": "High",
+      "due": "2026-11-16"
+    },
+    {
+      "id": 19,
+      "project_id": 7,
+      "title": "Gather requirements",
+      "assignee": "Fajar Nugroho",
+      "status": "To Do",
+      "priority": "Low",
+      "due": "2026-11-14"
+    },
+    {
+      "id": 20,
+      "project_id": 7,
+      "title": "Implementation sprint",
+      "assignee": "Laras Ayu",
+      "status": "In Progress",
+      "priority": "Medium",
+      "due": "2026-11-15"
+    },
+    {
+      "id": 21,
+      "project_id": 7,
+      "title": "Quality review",
+      "assignee": "Dimas Prakoso",
+      "status": "Done",
+      "priority": "High",
+      "due": "2026-11-16"
+    },
+    {
+      "id": 22,
+      "project_id": 8,
+      "title": "Gather requirements",
+      "assignee": "Laras Ayu",
+      "status": "In Progress",
+      "priority": "Low",
+      "due": "2026-11-14"
+    },
+    {
+      "id": 23,
+      "project_id": 8,
+      "title": "Implementation sprint",
+      "assignee": "Dimas Prakoso",
+      "status": "Done",
+      "priority": "Medium",
+      "due": "2026-11-15"
+    },
+    {
+      "id": 24,
+      "project_id": 8,
+      "title": "Quality review",
+      "assignee": "Nabila Zahra",
+      "status": "To Do",
+      "priority": "High",
+      "due": "2026-11-16"
+    },
+    {
+      "id": 25,
+      "project_id": 9,
+      "title": "Gather requirements",
+      "assignee": "Dimas Prakoso",
+      "status": "Done",
+      "priority": "Low",
+      "due": "2026-11-14"
+    },
+    {
+      "id": 26,
+      "project_id": 9,
+      "title": "Implementation sprint",
+      "assignee": "Nabila Zahra",
+      "status": "To Do",
+      "priority": "Medium",
+      "due": "2026-11-15"
+    },
+    {
+      "id": 27,
+      "project_id": 9,
+      "title": "Quality review",
+      "assignee": "Raka Wijaya",
+      "status": "In Progress",
+      "priority": "High",
+      "due": "2026-11-16"
+    },
+    {
+      "id": 28,
+      "project_id": 10,
+      "title": "Gather requirements",
+      "assignee": "Nabila Zahra",
+      "status": "To Do",
+      "priority": "Low",
+      "due": "2026-11-14"
+    },
+    {
+      "id": 29,
+      "project_id": 10,
+      "title": "Implementation sprint",
+      "assignee": "Raka Wijaya",
+      "status": "In Progress",
+      "priority": "Medium",
+      "due": "2026-11-15"
+    },
+    {
+      "id": 30,
+      "project_id": 10,
+      "title": "Quality review",
+      "assignee": "Citra Anindya",
+      "status": "Done",
+      "priority": "High",
+      "due": "2026-11-16"
+    },
+    {
+      "id": 31,
+      "project_id": 11,
+      "title": "Gather requirements",
+      "assignee": "Raka Wijaya",
+      "status": "In Progress",
+      "priority": "Low",
+      "due": "2026-11-14"
+    },
+    {
+      "id": 32,
+      "project_id": 11,
+      "title": "Implementation sprint",
+      "assignee": "Citra Anindya",
+      "status": "Done",
+      "priority": "Medium",
+      "due": "2026-11-15"
+    },
+    {
+      "id": 33,
+      "project_id": 11,
+      "title": "Quality review",
+      "assignee": "Kevin Wicaksono",
+      "status": "To Do",
+      "priority": "High",
+      "due": "2026-11-16"
+    },
+    {
+      "id": 34,
+      "project_id": 12,
+      "title": "Gather requirements",
+      "assignee": "Citra Anindya",
+      "status": "Done",
+      "priority": "Low",
+      "due": "2026-11-14"
+    },
+    {
+      "id": 35,
+      "project_id": 12,
+      "title": "Implementation sprint",
+      "assignee": "Kevin Wicaksono",
+      "status": "To Do",
+      "priority": "Medium",
+      "due": "2026-11-15"
+    },
+    {
+      "id": 36,
+      "project_id": 12,
+      "title": "Quality review",
+      "assignee": "Tasya Maharani",
+      "status": "In Progress",
+      "priority": "High",
+      "due": "2026-11-16"
+    }
+  ],
+  "milestones": [
+    {
+      "id": 1,
+      "project_id": 1,
+      "title": "Phase 1 delivery",
+      "due": "2026-12-10",
+      "status": "Open"
+    },
+    {
+      "id": 2,
+      "project_id": 2,
+      "title": "Phase 1 delivery",
+      "due": "2026-12-11",
+      "status": "Completed"
+    },
+    {
+      "id": 3,
+      "project_id": 3,
+      "title": "Phase 1 delivery",
+      "due": "2026-12-12",
+      "status": "Open"
+    },
+    {
+      "id": 4,
+      "project_id": 4,
+      "title": "Phase 1 delivery",
+      "due": "2026-12-13",
+      "status": "Completed"
+    },
+    {
+      "id": 5,
+      "project_id": 5,
+      "title": "Phase 1 delivery",
+      "due": "2026-12-14",
+      "status": "Open"
+    },
+    {
+      "id": 6,
+      "project_id": 6,
+      "title": "Phase 1 delivery",
+      "due": "2026-12-15",
+      "status": "Completed"
+    },
+    {
+      "id": 7,
+      "project_id": 7,
+      "title": "Phase 1 delivery",
+      "due": "2026-12-16",
+      "status": "Open"
+    },
+    {
+      "id": 8,
+      "project_id": 8,
+      "title": "Phase 1 delivery",
+      "due": "2026-12-17",
+      "status": "Completed"
+    },
+    {
+      "id": 9,
+      "project_id": 9,
+      "title": "Phase 1 delivery",
+      "due": "2026-12-18",
+      "status": "Open"
+    },
+    {
+      "id": 10,
+      "project_id": 10,
+      "title": "Phase 1 delivery",
+      "due": "2026-12-19",
+      "status": "Completed"
+    },
+    {
+      "id": 11,
+      "project_id": 11,
+      "title": "Phase 1 delivery",
+      "due": "2026-12-20",
+      "status": "Open"
+    },
+    {
+      "id": 12,
+      "project_id": 12,
+      "title": "Phase 1 delivery",
+      "due": "2026-12-21",
+      "status": "Completed"
+    }
+  ],
+  "tickets": [
+    {
+      "id": 1,
+      "title": "VPN connection issue #1",
+      "status": "Open",
+      "category": "Network",
+      "priority": "Low",
+      "requester": "Aditya Pratama",
+      "assignee": "Bima Saputra",
+      "created": "2026-10-01"
+    },
+    {
+      "id": 2,
+      "title": "Email access request #2",
+      "status": "In Progress",
+      "category": "Access",
+      "priority": "Medium",
+      "requester": "Nadia Putri",
+      "assignee": "Sarah Amelia",
+      "created": "2026-10-02"
+    },
+    {
+      "id": 3,
+      "title": "Printer not responding #3",
+      "status": "Resolved",
+      "category": "Hardware",
+      "priority": "High",
+      "requester": "Rizky Maulana",
+      "assignee": "Fajar Nugroho",
+      "created": "2026-10-03"
+    },
+    {
+      "id": 4,
+      "title": "Laptop maintenance #4",
+      "status": "Closed",
+      "category": "Software",
+      "priority": "Low",
+      "requester": "Dina Maharani",
+      "assignee": "Laras Ayu",
+      "created": "2026-10-04"
+    },
+    {
+      "id": 5,
+      "title": "Portal permission request #5",
+      "status": "Open",
+      "category": "Network",
+      "priority": "Medium",
+      "requester": "Bima Saputra",
+      "assignee": "Dimas Prakoso",
+      "created": "2026-10-05"
+    },
+    {
+      "id": 6,
+      "title": "VPN connection issue #6",
+      "status": "In Progress",
+      "category": "Access",
+      "priority": "High",
+      "requester": "Sarah Amelia",
+      "assignee": "Nabila Zahra",
+      "created": "2026-10-06"
+    },
+    {
+      "id": 7,
+      "title": "Email access request #7",
+      "status": "Resolved",
+      "category": "Hardware",
+      "priority": "Low",
+      "requester": "Fajar Nugroho",
+      "assignee": "Raka Wijaya",
+      "created": "2026-10-07"
+    },
+    {
+      "id": 8,
+      "title": "Printer not responding #8",
+      "status": "Closed",
+      "category": "Software",
+      "priority": "Medium",
+      "requester": "Laras Ayu",
+      "assignee": "Citra Anindya",
+      "created": "2026-10-08"
+    },
+    {
+      "id": 9,
+      "title": "Laptop maintenance #9",
+      "status": "Open",
+      "category": "Network",
+      "priority": "High",
+      "requester": "Dimas Prakoso",
+      "assignee": "Kevin Wicaksono",
+      "created": "2026-10-09"
+    },
+    {
+      "id": 10,
+      "title": "Portal permission request #10",
+      "status": "In Progress",
+      "category": "Access",
+      "priority": "Low",
+      "requester": "Nabila Zahra",
+      "assignee": "Tasya Maharani",
+      "created": "2026-10-10"
+    },
+    {
+      "id": 11,
+      "title": "VPN connection issue #11",
+      "status": "Resolved",
+      "category": "Hardware",
+      "priority": "Medium",
+      "requester": "Raka Wijaya",
+      "assignee": "Daffa Ramadhan",
+      "created": "2026-10-11"
+    },
+    {
+      "id": 12,
+      "title": "Email access request #12",
+      "status": "Closed",
+      "category": "Software",
+      "priority": "High",
+      "requester": "Citra Anindya",
+      "assignee": "Aurel Zahra",
+      "created": "2026-10-12"
+    },
+    {
+      "id": 13,
+      "title": "Printer not responding #13",
+      "status": "Open",
+      "category": "Network",
+      "priority": "Low",
+      "requester": "Kevin Wicaksono",
+      "assignee": "Reza Maulana",
+      "created": "2026-10-13"
+    },
+    {
+      "id": 14,
+      "title": "Laptop maintenance #14",
+      "status": "In Progress",
+      "category": "Access",
+      "priority": "Medium",
+      "requester": "Tasya Maharani",
+      "assignee": "Dewi Kartika",
+      "created": "2026-10-14"
+    },
+    {
+      "id": 15,
+      "title": "Portal permission request #15",
+      "status": "Resolved",
+      "category": "Hardware",
+      "priority": "High",
+      "requester": "Daffa Ramadhan",
+      "assignee": "Bagas Arya",
+      "created": "2026-10-15"
+    },
+    {
+      "id": 16,
+      "title": "VPN connection issue #16",
+      "status": "Closed",
+      "category": "Software",
+      "priority": "Low",
+      "requester": "Aurel Zahra",
+      "assignee": "Zahra Amelia",
+      "created": "2026-10-16"
+    },
+    {
+      "id": 17,
+      "title": "Email access request #17",
+      "status": "Open",
+      "category": "Network",
+      "priority": "Medium",
+      "requester": "Reza Maulana",
+      "assignee": "Putra Fadillah",
+      "created": "2026-10-17"
+    },
+    {
+      "id": 18,
+      "title": "Printer not responding #18",
+      "status": "In Progress",
+      "category": "Access",
+      "priority": "High",
+      "requester": "Dewi Kartika",
+      "assignee": "Nisa Amalia",
+      "created": "2026-10-18"
+    },
+    {
+      "id": 19,
+      "title": "Laptop maintenance #19",
+      "status": "Resolved",
+      "category": "Hardware",
+      "priority": "Low",
+      "requester": "Bagas Arya",
+      "assignee": "Rafi Akbar",
+      "created": "2026-10-19"
+    },
+    {
+      "id": 20,
+      "title": "Portal permission request #20",
+      "status": "Closed",
+      "category": "Software",
+      "priority": "Medium",
+      "requester": "Zahra Amelia",
+      "assignee": "Hana Kirana",
+      "created": "2026-10-20"
+    },
+    {
+      "id": 21,
+      "title": "VPN connection issue #21",
+      "status": "Open",
+      "category": "Network",
+      "priority": "High",
+      "requester": "Putra Fadillah",
+      "assignee": "Aditya Pratama",
+      "created": "2026-10-21"
+    },
+    {
+      "id": 22,
+      "title": "Email access request #22",
+      "status": "In Progress",
+      "category": "Access",
+      "priority": "Low",
+      "requester": "Nisa Amalia",
+      "assignee": "Nadia Putri",
+      "created": "2026-10-22"
+    },
+    {
+      "id": 23,
+      "title": "Printer not responding #23",
+      "status": "Resolved",
+      "category": "Hardware",
+      "priority": "Medium",
+      "requester": "Rafi Akbar",
+      "assignee": "Rizky Maulana",
+      "created": "2026-10-23"
+    },
+    {
+      "id": 24,
+      "title": "Laptop maintenance #24",
+      "status": "Closed",
+      "category": "Software",
+      "priority": "High",
+      "requester": "Hana Kirana",
+      "assignee": "Dina Maharani",
+      "created": "2026-10-24"
+    },
+    {
+      "id": 25,
+      "title": "Portal permission request #25",
+      "status": "Open",
+      "category": "Network",
+      "priority": "Low",
+      "requester": "Aditya Pratama",
+      "assignee": "Bima Saputra",
+      "created": "2026-10-25"
+    }
+  ],
+  "comments": [],
+  "assets": [
+    {
+      "id": 1,
+      "name": "Dell Latitude 5440",
+      "tag": "MDS-1000",
+      "status": "Available",
+      "category": "Laptop",
+      "holder": ""
+    },
+    {
+      "id": 2,
+      "name": "Cisco Catalyst 9200",
+      "tag": "MDS-1001",
+      "status": "Borrowed",
+      "category": "Network",
+      "holder": "Nadia Putri"
+    },
+    {
+      "id": 3,
+      "name": "HP Monitor 24",
+      "tag": "MDS-1002",
+      "status": "Maintenance",
+      "category": "Monitor",
+      "holder": ""
+    },
+    {
+      "id": 4,
+      "name": "Ubiquiti AP",
+      "tag": "MDS-1003",
+      "status": "Available",
+      "category": "Wireless",
+      "holder": ""
+    },
+    {
+      "id": 5,
+      "name": "Logitech Webcam",
+      "tag": "MDS-1004",
+      "status": "Borrowed",
+      "category": "Peripheral",
+      "holder": "Bima Saputra"
+    },
+    {
+      "id": 6,
+      "name": "Lenovo ThinkPad",
+      "tag": "MDS-1005",
+      "status": "Maintenance",
+      "category": "Laptop",
+      "holder": ""
+    },
+    {
+      "id": 7,
+      "name": "Dell Latitude 5440",
+      "tag": "MDS-1006",
+      "status": "Available",
+      "category": "Laptop",
+      "holder": ""
+    },
+    {
+      "id": 8,
+      "name": "Cisco Catalyst 9200",
+      "tag": "MDS-1007",
+      "status": "Borrowed",
+      "category": "Network",
+      "holder": "Laras Ayu"
+    },
+    {
+      "id": 9,
+      "name": "HP Monitor 24",
+      "tag": "MDS-1008",
+      "status": "Maintenance",
+      "category": "Monitor",
+      "holder": ""
+    },
+    {
+      "id": 10,
+      "name": "Ubiquiti AP",
+      "tag": "MDS-1009",
+      "status": "Available",
+      "category": "Wireless",
+      "holder": ""
+    },
+    {
+      "id": 11,
+      "name": "Logitech Webcam",
+      "tag": "MDS-1010",
+      "status": "Borrowed",
+      "category": "Peripheral",
+      "holder": "Raka Wijaya"
+    },
+    {
+      "id": 12,
+      "name": "Lenovo ThinkPad",
+      "tag": "MDS-1011",
+      "status": "Maintenance",
+      "category": "Laptop",
+      "holder": ""
+    },
+    {
+      "id": 13,
+      "name": "Dell Latitude 5440",
+      "tag": "MDS-1012",
+      "status": "Available",
+      "category": "Laptop",
+      "holder": ""
+    },
+    {
+      "id": 14,
+      "name": "Cisco Catalyst 9200",
+      "tag": "MDS-1013",
+      "status": "Borrowed",
+      "category": "Network",
+      "holder": "Tasya Maharani"
+    },
+    {
+      "id": 15,
+      "name": "HP Monitor 24",
+      "tag": "MDS-1014",
+      "status": "Maintenance",
+      "category": "Monitor",
+      "holder": ""
+    },
+    {
+      "id": 16,
+      "name": "Ubiquiti AP",
+      "tag": "MDS-1015",
+      "status": "Available",
+      "category": "Wireless",
+      "holder": ""
+    },
+    {
+      "id": 17,
+      "name": "Logitech Webcam",
+      "tag": "MDS-1016",
+      "status": "Borrowed",
+      "category": "Peripheral",
+      "holder": "Reza Maulana"
+    },
+    {
+      "id": 18,
+      "name": "Lenovo ThinkPad",
+      "tag": "MDS-1017",
+      "status": "Maintenance",
+      "category": "Laptop",
+      "holder": ""
+    },
+    {
+      "id": 19,
+      "name": "Dell Latitude 5440",
+      "tag": "MDS-1018",
+      "status": "Available",
+      "category": "Laptop",
+      "holder": ""
+    },
+    {
+      "id": 20,
+      "name": "Cisco Catalyst 9200",
+      "tag": "MDS-1019",
+      "status": "Borrowed",
+      "category": "Network",
+      "holder": "Zahra Amelia"
+    },
+    {
+      "id": 21,
+      "name": "HP Monitor 24",
+      "tag": "MDS-1020",
+      "status": "Maintenance",
+      "category": "Monitor",
+      "holder": ""
+    },
+    {
+      "id": 22,
+      "name": "Ubiquiti AP",
+      "tag": "MDS-1021",
+      "status": "Available",
+      "category": "Wireless",
+      "holder": ""
+    }
+  ],
+  "loans": [],
+  "expenses": [
+    {
+      "id": 1,
+      "title": "Cloud hosting - 1",
+      "amount": 425000,
+      "status": "Pending",
+      "requester": "Aditya Pratama",
+      "category": "IT",
+      "created": "2026-10-01"
+    },
+    {
+      "id": 2,
+      "title": "Office supplies - 2",
+      "amount": 850000,
+      "status": "Approved",
+      "requester": "Nadia Putri",
+      "category": "Operations",
+      "created": "2026-10-02"
+    },
+    {
+      "id": 3,
+      "title": "Network equipment - 3",
+      "amount": 1275000,
+      "status": "Rejected",
+      "requester": "Rizky Maulana",
+      "category": "Procurement",
+      "created": "2026-10-03"
+    },
+    {
+      "id": 4,
+      "title": "Team training - 4",
+      "amount": 1700000,
+      "status": "Pending",
+      "requester": "Dina Maharani",
+      "category": "IT",
+      "created": "2026-10-04"
+    },
+    {
+      "id": 5,
+      "title": "Cloud hosting - 5",
+      "amount": 2125000,
+      "status": "Approved",
+      "requester": "Bima Saputra",
+      "category": "Operations",
+      "created": "2026-10-05"
+    },
+    {
+      "id": 6,
+      "title": "Office supplies - 6",
+      "amount": 2550000,
+      "status": "Rejected",
+      "requester": "Sarah Amelia",
+      "category": "Procurement",
+      "created": "2026-10-06"
+    },
+    {
+      "id": 7,
+      "title": "Network equipment - 7",
+      "amount": 2975000,
+      "status": "Pending",
+      "requester": "Fajar Nugroho",
+      "category": "IT",
+      "created": "2026-10-07"
+    },
+    {
+      "id": 8,
+      "title": "Team training - 8",
+      "amount": 3400000,
+      "status": "Approved",
+      "requester": "Laras Ayu",
+      "category": "Operations",
+      "created": "2026-10-08"
+    },
+    {
+      "id": 9,
+      "title": "Cloud hosting - 9",
+      "amount": 3825000,
+      "status": "Rejected",
+      "requester": "Dimas Prakoso",
+      "category": "Procurement",
+      "created": "2026-10-09"
+    },
+    {
+      "id": 10,
+      "title": "Office supplies - 10",
+      "amount": 4250000,
+      "status": "Pending",
+      "requester": "Nabila Zahra",
+      "category": "IT",
+      "created": "2026-10-10"
+    },
+    {
+      "id": 11,
+      "title": "Network equipment - 11",
+      "amount": 4675000,
+      "status": "Approved",
+      "requester": "Raka Wijaya",
+      "category": "Operations",
+      "created": "2026-10-11"
+    },
+    {
+      "id": 12,
+      "title": "Team training - 12",
+      "amount": 5100000,
+      "status": "Rejected",
+      "requester": "Citra Anindya",
+      "category": "Procurement",
+      "created": "2026-10-12"
+    },
+    {
+      "id": 13,
+      "title": "Cloud hosting - 13",
+      "amount": 5525000,
+      "status": "Pending",
+      "requester": "Kevin Wicaksono",
+      "category": "IT",
+      "created": "2026-10-13"
+    },
+    {
+      "id": 14,
+      "title": "Office supplies - 14",
+      "amount": 5950000,
+      "status": "Approved",
+      "requester": "Tasya Maharani",
+      "category": "Operations",
+      "created": "2026-10-14"
+    },
+    {
+      "id": 15,
+      "title": "Network equipment - 15",
+      "amount": 6375000,
+      "status": "Rejected",
+      "requester": "Daffa Ramadhan",
+      "category": "Procurement",
+      "created": "2026-10-15"
+    },
+    {
+      "id": 16,
+      "title": "Team training - 16",
+      "amount": 6800000,
+      "status": "Pending",
+      "requester": "Aurel Zahra",
+      "category": "IT",
+      "created": "2026-10-16"
+    },
+    {
+      "id": 17,
+      "title": "Cloud hosting - 17",
+      "amount": 7225000,
+      "status": "Approved",
+      "requester": "Reza Maulana",
+      "category": "Operations",
+      "created": "2026-10-17"
+    }
+  ],
+  "documents": [
+    {
+      "id": 1,
+      "name": "Company Policy 1.pdf",
+      "folder": "General",
+      "owner": "Aditya Pratama",
+      "size": "100 KB",
+      "visibility": "Internal",
+      "created": "2026-10-01"
+    },
+    {
+      "id": 2,
+      "name": "Project Brief 2.pdf",
+      "folder": "Projects",
+      "owner": "Nadia Putri",
+      "size": "113 KB",
+      "visibility": "Team",
+      "created": "2026-10-02"
+    },
+    {
+      "id": 3,
+      "name": "Meeting Notes 3.pdf",
+      "folder": "HR",
+      "owner": "Rizky Maulana",
+      "size": "126 KB",
+      "visibility": "Internal",
+      "created": "2026-10-03"
+    },
+    {
+      "id": 4,
+      "name": "Security Checklist 4.pdf",
+      "folder": "IT",
+      "owner": "Dina Maharani",
+      "size": "139 KB",
+      "visibility": "Team",
+      "created": "2026-10-04"
+    },
+    {
+      "id": 5,
+      "name": "Onboarding Guide 5.pdf",
+      "folder": "General",
+      "owner": "Bima Saputra",
+      "size": "152 KB",
+      "visibility": "Internal",
+      "created": "2026-10-05"
+    },
+    {
+      "id": 6,
+      "name": "Company Policy 6.pdf",
+      "folder": "Projects",
+      "owner": "Sarah Amelia",
+      "size": "165 KB",
+      "visibility": "Team",
+      "created": "2026-10-06"
+    },
+    {
+      "id": 7,
+      "name": "Project Brief 7.pdf",
+      "folder": "HR",
+      "owner": "Fajar Nugroho",
+      "size": "178 KB",
+      "visibility": "Internal",
+      "created": "2026-10-07"
+    },
+    {
+      "id": 8,
+      "name": "Meeting Notes 8.pdf",
+      "folder": "IT",
+      "owner": "Laras Ayu",
+      "size": "191 KB",
+      "visibility": "Team",
+      "created": "2026-10-08"
+    },
+    {
+      "id": 9,
+      "name": "Security Checklist 9.pdf",
+      "folder": "General",
+      "owner": "Dimas Prakoso",
+      "size": "204 KB",
+      "visibility": "Internal",
+      "created": "2026-10-09"
+    },
+    {
+      "id": 10,
+      "name": "Onboarding Guide 10.pdf",
+      "folder": "Projects",
+      "owner": "Nabila Zahra",
+      "size": "217 KB",
+      "visibility": "Team",
+      "created": "2026-10-10"
+    },
+    {
+      "id": 11,
+      "name": "Company Policy 11.pdf",
+      "folder": "HR",
+      "owner": "Raka Wijaya",
+      "size": "230 KB",
+      "visibility": "Internal",
+      "created": "2026-10-11"
+    },
+    {
+      "id": 12,
+      "name": "Project Brief 12.pdf",
+      "folder": "IT",
+      "owner": "Citra Anindya",
+      "size": "243 KB",
+      "visibility": "Team",
+      "created": "2026-10-12"
+    },
+    {
+      "id": 13,
+      "name": "Meeting Notes 13.pdf",
+      "folder": "General",
+      "owner": "Kevin Wicaksono",
+      "size": "256 KB",
+      "visibility": "Internal",
+      "created": "2026-10-13"
+    },
+    {
+      "id": 14,
+      "name": "Security Checklist 14.pdf",
+      "folder": "Projects",
+      "owner": "Tasya Maharani",
+      "size": "269 KB",
+      "visibility": "Team",
+      "created": "2026-10-14"
+    },
+    {
+      "id": 15,
+      "name": "Onboarding Guide 15.pdf",
+      "folder": "HR",
+      "owner": "Daffa Ramadhan",
+      "size": "282 KB",
+      "visibility": "Internal",
+      "created": "2026-10-15"
+    },
+    {
+      "id": 16,
+      "name": "Company Policy 16.pdf",
+      "folder": "IT",
+      "owner": "Aurel Zahra",
+      "size": "295 KB",
+      "visibility": "Team",
+      "created": "2026-10-16"
+    },
+    {
+      "id": 17,
+      "name": "Project Brief 17.pdf",
+      "folder": "General",
+      "owner": "Reza Maulana",
+      "size": "308 KB",
+      "visibility": "Internal",
+      "created": "2026-10-17"
+    },
+    {
+      "id": 18,
+      "name": "Meeting Notes 18.pdf",
+      "folder": "Projects",
+      "owner": "Dewi Kartika",
+      "size": "321 KB",
+      "visibility": "Team",
+      "created": "2026-10-18"
+    },
+    {
+      "id": 19,
+      "name": "Security Checklist 19.pdf",
+      "folder": "HR",
+      "owner": "Bagas Arya",
+      "size": "334 KB",
+      "visibility": "Internal",
+      "created": "2026-10-19"
+    },
+    {
+      "id": 20,
+      "name": "Onboarding Guide 20.pdf",
+      "folder": "IT",
+      "owner": "Zahra Amelia",
+      "size": "347 KB",
+      "visibility": "Team",
+      "created": "2026-10-20"
+    }
+  ],
+  "attendance": [
+    {
+      "id": 1,
+      "employee": "Aditya Pratama",
+      "day": "2026-10-01",
+      "status": "Late"
+    },
+    {
+      "id": 2,
+      "employee": "Nadia Putri",
+      "day": "2026-10-02",
+      "status": "Present"
+    },
+    {
+      "id": 3,
+      "employee": "Rizky Maulana",
+      "day": "2026-10-03",
+      "status": "Present"
+    },
+    {
+      "id": 4,
+      "employee": "Dina Maharani",
+      "day": "2026-10-04",
+      "status": "Present"
+    },
+    {
+      "id": 5,
+      "employee": "Bima Saputra",
+      "day": "2026-10-05",
+      "status": "Present"
+    },
+    {
+      "id": 6,
+      "employee": "Sarah Amelia",
+      "day": "2026-10-06",
+      "status": "Present"
+    },
+    {
+      "id": 7,
+      "employee": "Fajar Nugroho",
+      "day": "2026-10-07",
+      "status": "Late"
+    },
+    {
+      "id": 8,
+      "employee": "Laras Ayu",
+      "day": "2026-10-08",
+      "status": "Present"
+    },
+    {
+      "id": 9,
+      "employee": "Dimas Prakoso",
+      "day": "2026-10-09",
+      "status": "Present"
+    },
+    {
+      "id": 10,
+      "employee": "Nabila Zahra",
+      "day": "2026-10-10",
+      "status": "Present"
+    },
+    {
+      "id": 11,
+      "employee": "Raka Wijaya",
+      "day": "2026-10-11",
+      "status": "Present"
+    },
+    {
+      "id": 12,
+      "employee": "Citra Anindya",
+      "day": "2026-10-12",
+      "status": "Present"
+    },
+    {
+      "id": 13,
+      "employee": "Kevin Wicaksono",
+      "day": "2026-10-13",
+      "status": "Late"
+    },
+    {
+      "id": 14,
+      "employee": "Tasya Maharani",
+      "day": "2026-10-14",
+      "status": "Present"
+    },
+    {
+      "id": 15,
+      "employee": "Daffa Ramadhan",
+      "day": "2026-10-15",
+      "status": "Present"
+    },
+    {
+      "id": 16,
+      "employee": "Aurel Zahra",
+      "day": "2026-10-16",
+      "status": "Present"
+    },
+    {
+      "id": 17,
+      "employee": "Reza Maulana",
+      "day": "2026-10-17",
+      "status": "Present"
+    },
+    {
+      "id": 18,
+      "employee": "Dewi Kartika",
+      "day": "2026-10-18",
+      "status": "Present"
+    },
+    {
+      "id": 19,
+      "employee": "Bagas Arya",
+      "day": "2026-10-19",
+      "status": "Late"
+    },
+    {
+      "id": 20,
+      "employee": "Zahra Amelia",
+      "day": "2026-10-20",
+      "status": "Present"
+    },
+    {
+      "id": 21,
+      "employee": "Putra Fadillah",
+      "day": "2026-10-21",
+      "status": "Present"
+    },
+    {
+      "id": 22,
+      "employee": "Nisa Amalia",
+      "day": "2026-10-22",
+      "status": "Present"
+    },
+    {
+      "id": 23,
+      "employee": "Rafi Akbar",
+      "day": "2026-10-23",
+      "status": "Present"
+    },
+    {
+      "id": 24,
+      "employee": "Hana Kirana",
+      "day": "2026-10-24",
+      "status": "Present"
+    },
+    {
+      "id": 25,
+      "employee": "Aditya Pratama",
+      "day": "2026-10-25",
+      "status": "Late"
+    }
+  ],
+  "leave_requests": [
+    {
+      "id": 1,
+      "employee": "Aditya Pratama",
+      "kind": "Annual",
+      "start_date": "2026-11-03",
+      "end_date": "2026-11-04",
+      "status": "Pending"
+    },
+    {
+      "id": 2,
+      "employee": "Nadia Putri",
+      "kind": "Sick",
+      "start_date": "2026-11-04",
+      "end_date": "2026-11-05",
+      "status": "Approved"
+    },
+    {
+      "id": 3,
+      "employee": "Rizky Maulana",
+      "kind": "Personal",
+      "start_date": "2026-11-05",
+      "end_date": "2026-11-06",
+      "status": "Rejected"
+    },
+    {
+      "id": 4,
+      "employee": "Dina Maharani",
+      "kind": "Annual",
+      "start_date": "2026-11-06",
+      "end_date": "2026-11-07",
+      "status": "Pending"
+    },
+    {
+      "id": 5,
+      "employee": "Bima Saputra",
+      "kind": "Sick",
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-08",
+      "status": "Approved"
+    },
+    {
+      "id": 6,
+      "employee": "Sarah Amelia",
+      "kind": "Personal",
+      "start_date": "2026-11-08",
+      "end_date": "2026-11-09",
+      "status": "Rejected"
+    },
+    {
+      "id": 7,
+      "employee": "Fajar Nugroho",
+      "kind": "Annual",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-10",
+      "status": "Pending"
+    },
+    {
+      "id": 8,
+      "employee": "Laras Ayu",
+      "kind": "Sick",
+      "start_date": "2026-11-10",
+      "end_date": "2026-11-11",
+      "status": "Approved"
+    },
+    {
+      "id": 9,
+      "employee": "Dimas Prakoso",
+      "kind": "Personal",
+      "start_date": "2026-11-11",
+      "end_date": "2026-11-12",
+      "status": "Rejected"
+    }
+  ],
+  "notifications": [
+    {
+      "id": 1,
+      "title": "Workspace notification 1",
+      "body": "Project and team update for Aditya Pratama.",
+      "created": "2026-11-01",
+      "is_read": 0
+    },
+    {
+      "id": 2,
+      "title": "Workspace notification 2",
+      "body": "Project and team update for Nadia Putri.",
+      "created": "2026-11-02",
+      "is_read": 0
+    },
+    {
+      "id": 3,
+      "title": "Workspace notification 3",
+      "body": "Project and team update for Rizky Maulana.",
+      "created": "2026-11-01",
+      "is_read": 0
+    },
+    {
+      "id": 4,
+      "title": "Workspace notification 4",
+      "body": "Project and team update for Dina Maharani.",
+      "created": "2026-11-02",
+      "is_read": 0
+    },
+    {
+      "id": 5,
+      "title": "Workspace notification 5",
+      "body": "Project and team update for Bima Saputra.",
+      "created": "2026-11-01",
+      "is_read": 0
+    },
+    {
+      "id": 6,
+      "title": "Workspace notification 6",
+      "body": "Project and team update for Sarah Amelia.",
+      "created": "2026-11-02",
+      "is_read": 0
+    },
+    {
+      "id": 7,
+      "title": "Workspace notification 7",
+      "body": "Project and team update for Fajar Nugroho.",
+      "created": "2026-11-01",
+      "is_read": 0
+    },
+    {
+      "id": 8,
+      "title": "Workspace notification 8",
+      "body": "Project and team update for Laras Ayu.",
+      "created": "2026-11-02",
+      "is_read": 0
+    },
+    {
+      "id": 9,
+      "title": "Workspace notification 9",
+      "body": "Project and team update for Dimas Prakoso.",
+      "created": "2026-11-01",
+      "is_read": 0
+    },
+    {
+      "id": 10,
+      "title": "Workspace notification 10",
+      "body": "Project and team update for Nabila Zahra.",
+      "created": "2026-11-02",
+      "is_read": 0
+    },
+    {
+      "id": 11,
+      "title": "Workspace notification 11",
+      "body": "Project and team update for Raka Wijaya.",
+      "created": "2026-11-01",
+      "is_read": 0
+    },
+    {
+      "id": 12,
+      "title": "Workspace notification 12",
+      "body": "Project and team update for Citra Anindya.",
+      "created": "2026-11-02",
+      "is_read": 0
+    }
+  ],
+  "activity": [
+    {
+      "id": 1,
+      "actor": "Aditya Pratama",
+      "action": "Updated project",
+      "created": "2026-11-02 08:00"
+    },
+    {
+      "id": 2,
+      "actor": "Nadia Putri",
+      "action": "Submitted ticket",
+      "created": "2026-11-02 09:03"
+    },
+    {
+      "id": 3,
+      "actor": "Rizky Maulana",
+      "action": "Reviewed expense",
+      "created": "2026-11-02 10:06"
+    },
+    {
+      "id": 4,
+      "actor": "Dina Maharani",
+      "action": "Uploaded document",
+      "created": "2026-11-02 11:09"
+    },
+    {
+      "id": 5,
+      "actor": "Bima Saputra",
+      "action": "Updated project",
+      "created": "2026-11-02 12:12"
+    },
+    {
+      "id": 6,
+      "actor": "Sarah Amelia",
+      "action": "Submitted ticket",
+      "created": "2026-11-02 13:15"
+    },
+    {
+      "id": 7,
+      "actor": "Fajar Nugroho",
+      "action": "Reviewed expense",
+      "created": "2026-11-02 14:18"
+    },
+    {
+      "id": 8,
+      "actor": "Laras Ayu",
+      "action": "Uploaded document",
+      "created": "2026-11-02 15:21"
+    },
+    {
+      "id": 9,
+      "actor": "Dimas Prakoso",
+      "action": "Updated project",
+      "created": "2026-11-02 16:24"
+    },
+    {
+      "id": 10,
+      "actor": "Nabila Zahra",
+      "action": "Submitted ticket",
+      "created": "2026-11-02 17:27"
+    },
+    {
+      "id": 11,
+      "actor": "Raka Wijaya",
+      "action": "Reviewed expense",
+      "created": "2026-11-02 08:30"
+    },
+    {
+      "id": 12,
+      "actor": "Citra Anindya",
+      "action": "Uploaded document",
+      "created": "2026-11-02 09:33"
+    },
+    {
+      "id": 13,
+      "actor": "Kevin Wicaksono",
+      "action": "Updated project",
+      "created": "2026-11-02 10:36"
+    },
+    {
+      "id": 14,
+      "actor": "Tasya Maharani",
+      "action": "Submitted ticket",
+      "created": "2026-11-02 11:39"
+    },
+    {
+      "id": 15,
+      "actor": "Daffa Ramadhan",
+      "action": "Reviewed expense",
+      "created": "2026-11-02 12:42"
+    },
+    {
+      "id": 16,
+      "actor": "Aurel Zahra",
+      "action": "Uploaded document",
+      "created": "2026-11-02 13:45"
+    },
+    {
+      "id": 17,
+      "actor": "Reza Maulana",
+      "action": "Updated project",
+      "created": "2026-11-02 14:48"
+    },
+    {
+      "id": 18,
+      "actor": "Dewi Kartika",
+      "action": "Submitted ticket",
+      "created": "2026-11-02 15:51"
+    },
+    {
+      "id": 19,
+      "actor": "Bagas Arya",
+      "action": "Reviewed expense",
+      "created": "2026-11-02 16:54"
+    },
+    {
+      "id": 20,
+      "actor": "Zahra Amelia",
+      "action": "Uploaded document",
+      "created": "2026-11-02 17:57"
+    }
+  ],
+  "settings": [
+    {
+      "k": "organization",
+      "v": "Moklet Digital Solutions"
+    }
+  ],
+  "exports": []
+}

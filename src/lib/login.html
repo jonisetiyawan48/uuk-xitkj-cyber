@@ -1,0 +1,19 @@
+<!doctype html><html lang="id"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+ <title>Sign In | Moklet Digital Solutions</title><link rel="icon" href="/static/logo.svg"><link rel="stylesheet" href="/static/style.css"></head>
+ <body class="login-body"><div class="login-wrap"><section class="login-showcase">
+ <div class="login-brand"><img src="/static/logo.svg" alt="Moklet"><span>MOKLET <b>DIGITAL</b><small>INTERNAL ENTERPRISE PORTAL</small></span></div>
+ <div class="login-hero"><span class="login-pill">SECURE WORKSPACE · TRAINING</span><h1>Everything your team needs, <em>in one place.</em></h1>
+ <p>Kelola operasional perusahaan, proyek, karyawan, dokumen, dan layanan IT melalui satu platform terintegrasi.</p>
+ <img src="/static/hero.svg" alt="Ilustrasi kolaborasi tim"></div>
+ <div class="login-foot">Moklet Digital Solutions © 2026 · Simulated enterprise environment</div></section>
+ <section class="login-main"><div class="login-panel"><span class="login-overline">WELCOME BACK</span><h2>Sign in to your workspace</h2>
+ <p class="login-sub">Pilih akun latihan yang tersedia, kemudian masuk menggunakan password demo.</p>
+ <div class="login-label">Pilih akun pengguna</div><div class="account-choices"><button type="button" class="account-choice" data-username="employee"><span class="choice-avatar">A</span><span><strong>Aditya Pratama</strong><small>Employee · @employee</small></span><span class="choice-check">✓</span></button><button type="button" class="account-choice" data-username="manager"><span class="choice-avatar">N</span><span><strong>Nadia Putri</strong><small>Project Manager · @manager</small></span><span class="choice-check">✓</span></button><button type="button" class="account-choice" data-username="hr"><span class="choice-avatar">D</span><span><strong>Dina Maharani</strong><small>HR Officer · @hr</small></span><span class="choice-check">✓</span></button><button type="button" class="account-choice" data-username="admin"><span class="choice-avatar">B</span><span><strong>Bima Saputra</strong><small>System Administrator · @admin</small></span><span class="choice-check">✓</span></button></div>
+ <form method="post" action="/action/login" id="loginForm" class="login-form">
+ <label>Username<input name="username" id="username" placeholder="Pilih akun di atas" autocomplete="username" required></label>
+ <label>Password<input type="password" name="password" placeholder="Masukkan password latihan" autocomplete="current-password" required></label>
+ <p class="login-error">__LOGIN_ERROR__</p><button type="submit" class="login-submit">Masuk ke Portal <span>→</span></button></form>
+ <div class="login-note">Akun dan data hanya untuk simulasi pembelajaran. Jangan gunakan kredensial pribadi.</div>
+ </div></section></div>
+ <script>document.querySelectorAll('.account-choice').forEach(el=>el.addEventListener('click',()=>{document.querySelectorAll('.account-choice').forEach(x=>x.classList.remove('selected'));el.classList.add('selected');document.getElementById('username').value=el.dataset.username;}));</script>
+ </body></html>

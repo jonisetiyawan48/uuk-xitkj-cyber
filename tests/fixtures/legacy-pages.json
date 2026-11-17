@@ -1,0 +1,912 @@
+[
+  {
+    "username": "employee",
+    "path": "/",
+    "sha256": "38bff54b88c7928dea3b598e9c82d74cfe69db12bb3dbbd28df8596552e8e6a7"
+  },
+  {
+    "username": "employee",
+    "path": "/module/dashboard",
+    "sha256": "329ed6a7c45e2f3974e986694248a0f1a0ba1ac197c484a61303777dfec606ed"
+  },
+  {
+    "username": "employee",
+    "path": "/page/dashboard/overview",
+    "sha256": "5996b8f6cd754b266a56595281ec3943fdd0349b2d7f2773aad2913350135068"
+  },
+  {
+    "username": "employee",
+    "path": "/page/dashboard/activity-feed",
+    "sha256": "88df4de798d875b6db3801b6f1369759522d991486906fac84cf0572a1d2a601"
+  },
+  {
+    "username": "employee",
+    "path": "/page/dashboard/calendar",
+    "sha256": "120f17257916761eaf8bb22b4b0decb0e81abdf6d0d5afa50c890ac4410d0273"
+  },
+  {
+    "username": "employee",
+    "path": "/module/projects",
+    "sha256": "69760663ce76cb3478e40192d03db18b02e18f95c3bd9dc35d2dfb7de98aab92"
+  },
+  {
+    "username": "employee",
+    "path": "/page/projects/projects",
+    "sha256": "a80690bd7bc8eed78ba8dbcd06ed56b1f816c1aa3bc86c416c74ae6590ba2912"
+  },
+  {
+    "username": "employee",
+    "path": "/page/projects/project-detail",
+    "sha256": "10b906fe21bf22b8034e72e5222167ea5208fd474c458b0629b902d922c594cb"
+  },
+  {
+    "username": "employee",
+    "path": "/page/projects/tasks",
+    "sha256": "ab11a827a82f0a416743a7822ad14f08401769a37a2a3fcb659c475e3e55c68d"
+  },
+  {
+    "username": "employee",
+    "path": "/page/projects/task-detail",
+    "sha256": "345ae76dfda3a5c4c18a00ccb842a55fc10107e06e83640ba2c806083b339408"
+  },
+  {
+    "username": "employee",
+    "path": "/page/projects/milestones",
+    "sha256": "f51edf6c543070266cee8355b09049fe901669d1e2961b1be07a593929e85262"
+  },
+  {
+    "username": "employee",
+    "path": "/page/projects/team-members",
+    "sha256": "bd76573ca9821cc8a6aff7adb39244fd4e2b9f8896939695a21e3829762e13a8"
+  },
+  {
+    "username": "employee",
+    "path": "/module/documents",
+    "sha256": "6d6a7a22c0e2a48383c0d6d5a84c20497230a092e431efb640e527280208729b"
+  },
+  {
+    "username": "employee",
+    "path": "/page/documents/explorer",
+    "sha256": "1887357f7f8d30b532198e78c8f1efe4c10a7b05f0c0e77e2c237374ed49a59a"
+  },
+  {
+    "username": "employee",
+    "path": "/page/documents/folder-detail",
+    "sha256": "6ef22e58e5f35297b372a9205a8ed6abde456e52e34cbece5165957f2ebe2cdc"
+  },
+  {
+    "username": "employee",
+    "path": "/page/documents/document-detail",
+    "sha256": "70c096c2c2822b6169afa056f50cb7272a74d6fa98a553787b8f1a5e8dd791b8"
+  },
+  {
+    "username": "employee",
+    "path": "/page/documents/upload",
+    "sha256": "2090fb91a390a7b323f74c7b67bbbd6c9221ed6f7249180190e97cd3dee79f9e"
+  },
+  {
+    "username": "employee",
+    "path": "/page/documents/shared-documents",
+    "sha256": "6ed3da3058d1e7e743640aec749887239af7875945e1eccc2ddfdd3c93b4a6ff"
+  },
+  {
+    "username": "employee",
+    "path": "/module/helpdesk",
+    "sha256": "037d68090da1ebd2dfacf8fc71fb98910d4c08129c0d11b00b98b1f4797e8e2d"
+  },
+  {
+    "username": "employee",
+    "path": "/page/helpdesk/tickets",
+    "sha256": "656a961ccf0faa02bb442109772d5570edcd89d477e6bbf658b9f46a9bad5730"
+  },
+  {
+    "username": "employee",
+    "path": "/page/helpdesk/create-ticket",
+    "sha256": "8a20b49564c18bf632709b6bbd647022e04caaae2f7604cc43197ad16d23eccf"
+  },
+  {
+    "username": "employee",
+    "path": "/page/helpdesk/ticket-detail",
+    "sha256": "eeb1236202b2a8a74bec4752b9c6ea4a5590f43be8c5abaed0a57043f508c7c2"
+  },
+  {
+    "username": "employee",
+    "path": "/page/helpdesk/ticket-comments",
+    "sha256": "697551ab05f49ecd69a8457b40b98f5dd4d0f165b7586410a9db98598988eb7f"
+  },
+  {
+    "username": "employee",
+    "path": "/page/helpdesk/knowledge-base",
+    "sha256": "809494da98c528ef67cee6499fb06f77548cb50f7d1424f57fc89ce4fac7a4c9"
+  },
+  {
+    "username": "employee",
+    "path": "/module/assets",
+    "sha256": "ff40b5eb4be8525958339cb584b07212c3d0975a987159f6e55999cdf8537982"
+  },
+  {
+    "username": "employee",
+    "path": "/page/assets/assets",
+    "sha256": "1d5348048e750f3bed963dccad6b603770b5bb51919274b1732ab6b83ca7d3a0"
+  },
+  {
+    "username": "employee",
+    "path": "/page/assets/asset-detail",
+    "sha256": "9d4c90aefe20d31a072e9d164ac8975002c3006b0fb856db0e2d05ed2fb61ac5"
+  },
+  {
+    "username": "employee",
+    "path": "/page/assets/borrowing",
+    "sha256": "889511240fb37a61b57608c65f2a20c7c5b1931d1c3b451cd5cac1a7628ea031"
+  },
+  {
+    "username": "employee",
+    "path": "/page/assets/return-history",
+    "sha256": "6f7c8c2a19dbf00324af228697fc647114fad2432ac4dbcd0cf05a6baa422438"
+  },
+  {
+    "username": "employee",
+    "path": "/module/finance",
+    "sha256": "1fbbcfcd91a95a4efcf12af8cb5396677245fd5d811fb426d1b804d5612df278"
+  },
+  {
+    "username": "employee",
+    "path": "/page/finance/expense-requests",
+    "sha256": "976de6d871d7b5f8ac4e13db867a61617b67e0dd5752b98838875a9073cbbfcc"
+  },
+  {
+    "username": "employee",
+    "path": "/page/finance/expense-detail",
+    "sha256": "f1056805508abff9a96dd15dd9d503026cd64474167322c565278179e9454be9"
+  },
+  {
+    "username": "employee",
+    "path": "/module/account",
+    "sha256": "2c75b20277b72de90fef24145c0a7332ff68a696d4aa1215a57e5a8a3e420479"
+  },
+  {
+    "username": "employee",
+    "path": "/page/account/login",
+    "sha256": "b52e175babda1bc38792402eacca3cd7161aa32b75446b6982a16fe2993b0824"
+  },
+  {
+    "username": "employee",
+    "path": "/page/account/forgot-password",
+    "sha256": "bf756f28399b6a02cd9fa6042e8b8795c83a1d09d8775eefc94997b3a0c7370c"
+  },
+  {
+    "username": "employee",
+    "path": "/page/account/reset-password",
+    "sha256": "c0881f74294a6a15bd5eb09695de736000d202b95d0d24f1a7ad5344de43859b"
+  },
+  {
+    "username": "employee",
+    "path": "/page/account/my-profile",
+    "sha256": "ae435ce33c37056c853f890d3e134460b88a709d6939ce01eaf34603f93bfe50"
+  },
+  {
+    "username": "manager",
+    "path": "/",
+    "sha256": "13dc4c693c946bb554d2d6bdb736af57b98d932cf501a088cc9f1a7faf61f0e2"
+  },
+  {
+    "username": "manager",
+    "path": "/module/dashboard",
+    "sha256": "deb6d87922f5623d3de6b839459e9b90a24bd5a398554d730f0249ede4bcf80d"
+  },
+  {
+    "username": "manager",
+    "path": "/page/dashboard/overview",
+    "sha256": "c5d3515e7f54c1dc871677e3e0d2b4e9c9320324d042faf3db84180be2241012"
+  },
+  {
+    "username": "manager",
+    "path": "/page/dashboard/activity-feed",
+    "sha256": "86a7add427bad7a84e39e2e5f161240c559be0bae363bf39feccb884ac2ebd22"
+  },
+  {
+    "username": "manager",
+    "path": "/page/dashboard/calendar",
+    "sha256": "d4b57a1d27f02872e5bafb2505cefd99bc40232e107e8e222cc157ddd1efb0b2"
+  },
+  {
+    "username": "manager",
+    "path": "/module/projects",
+    "sha256": "e652e07f4a0039e5cc20675daebfbc40616fffc82c52710e802a935b49dbf730"
+  },
+  {
+    "username": "manager",
+    "path": "/page/projects/projects",
+    "sha256": "e6fbf863251cbea0a3356f07d1ba3af1c1798d4b2aae5659500cfedf99d8817c"
+  },
+  {
+    "username": "manager",
+    "path": "/page/projects/project-detail",
+    "sha256": "33443139493d5b32c05611a9beedb1433c3ab07a591537587c1327871f74088c"
+  },
+  {
+    "username": "manager",
+    "path": "/page/projects/tasks",
+    "sha256": "00ffdd4cd7b2de2a0c708a7bf27a4d92cc20483d94137fe098ffe4e85dcac532"
+  },
+  {
+    "username": "manager",
+    "path": "/page/projects/task-detail",
+    "sha256": "f05e3200185af2b5e810f0758df7fac22cf64e986fcf043f47315ec45aee8271"
+  },
+  {
+    "username": "manager",
+    "path": "/page/projects/milestones",
+    "sha256": "4478c9550a997f7ecda7cd778b7b4610997651f7dc6a5e8e03fcd73210b9c6ee"
+  },
+  {
+    "username": "manager",
+    "path": "/page/projects/team-members",
+    "sha256": "78f1b57c8e0ce7f34ca461eba9fee5277168a1d8c0402bdef59cb3094bae7822"
+  },
+  {
+    "username": "manager",
+    "path": "/module/documents",
+    "sha256": "e519ec6d0b4091ba37942375a64786b496440c7e5f5b5cfaa7148fb86df88b21"
+  },
+  {
+    "username": "manager",
+    "path": "/page/documents/explorer",
+    "sha256": "01c51b1a833393914586228e8fe9f245cff72821d014f82ea5d930ebdf6ce97f"
+  },
+  {
+    "username": "manager",
+    "path": "/page/documents/folder-detail",
+    "sha256": "933d2145cdc244e7c771526b433af8b91f027a5bb8a35d44451189d814013372"
+  },
+  {
+    "username": "manager",
+    "path": "/page/documents/document-detail",
+    "sha256": "ff27011cdbc25c15237155a606efa9a2bac12338b2467290320b5d9a8f274979"
+  },
+  {
+    "username": "manager",
+    "path": "/page/documents/upload",
+    "sha256": "070423162d320e1117ad52beb56c9db81517805bdb94e9394a6cfad85882a7fd"
+  },
+  {
+    "username": "manager",
+    "path": "/page/documents/shared-documents",
+    "sha256": "688382c724e9a7be6ea2b782502c4e9e72b1ef125253f90937a0f741f7353ff5"
+  },
+  {
+    "username": "manager",
+    "path": "/module/helpdesk",
+    "sha256": "e8870233a1914f73ba152bb829216c7a237620d8c84a8f0ac7fd8cc39feb2b40"
+  },
+  {
+    "username": "manager",
+    "path": "/page/helpdesk/tickets",
+    "sha256": "66a8d2bed3cdc4ed6d68f1d178101359a1fbc23606f8e302e43676e474d10fd6"
+  },
+  {
+    "username": "manager",
+    "path": "/page/helpdesk/create-ticket",
+    "sha256": "9e6ca11100a904c45cb08d1d941256da71c51d527575d81c5068017dbadcb2c9"
+  },
+  {
+    "username": "manager",
+    "path": "/page/helpdesk/ticket-detail",
+    "sha256": "31e4c41082ff29dd5dbe3aa334e700dfdf97c4639dc28d4404b682a433cf16e7"
+  },
+  {
+    "username": "manager",
+    "path": "/page/helpdesk/ticket-comments",
+    "sha256": "b58196d2f9195f24a6808be77a9f09a4c4bf2546289b79a13307bf76868a627a"
+  },
+  {
+    "username": "manager",
+    "path": "/page/helpdesk/knowledge-base",
+    "sha256": "91ee684aae02da092bfa628fee75ce2f26749503e4931f3a1ae2e0f0442a02fa"
+  },
+  {
+    "username": "manager",
+    "path": "/module/assets",
+    "sha256": "d8d9587dd550efbef9e4a6f68184105070d4127d0ea2207ab4101ca9d25ffba0"
+  },
+  {
+    "username": "manager",
+    "path": "/page/assets/assets",
+    "sha256": "8c450b2edc759e67e7b62d5325ead8f7f9a00bd12dab6d2650f7a51434f36250"
+  },
+  {
+    "username": "manager",
+    "path": "/page/assets/asset-detail",
+    "sha256": "b4ef2df41a73e3fd5d36457f84ae75e5dc6e8fab38ed3d55dfd9492ececedf3b"
+  },
+  {
+    "username": "manager",
+    "path": "/page/assets/borrowing",
+    "sha256": "5fc323a4288f2f0b50b6802f19f0e0d9c6f9d710119f6bf04a92526beb96c63e"
+  },
+  {
+    "username": "manager",
+    "path": "/page/assets/return-history",
+    "sha256": "1ee934b6103028ce61ee776613d9d64fdc8fca0b0b27cf4a9cc58b4a1f28906c"
+  },
+  {
+    "username": "manager",
+    "path": "/module/finance",
+    "sha256": "6142618a0c37100c9a0a85e25e322871ece80b0a0528e506e68e3fceb2d0d51b"
+  },
+  {
+    "username": "manager",
+    "path": "/page/finance/expense-requests",
+    "sha256": "6d320e6984d052a5b3382a753e35507db906862b631fd1007bc1ed85b851d209"
+  },
+  {
+    "username": "manager",
+    "path": "/page/finance/expense-detail",
+    "sha256": "edde401a018918e5ce4c1e4fb143cf6c9d51f03405ceaff66e0e0fc16e37a9b6"
+  },
+  {
+    "username": "manager",
+    "path": "/page/finance/approval-queue",
+    "sha256": "f6ab1522b37bf66f7bf0f1151d5765c00fde01b923f969fb8818301f9368492b"
+  },
+  {
+    "username": "manager",
+    "path": "/page/finance/payment-history",
+    "sha256": "b44cfc79926f6f27186f1d910a8f716d6a9ba251f8f876bd9398cd94ef3125ec"
+  },
+  {
+    "username": "manager",
+    "path": "/module/reports",
+    "sha256": "50f616a261b4584c3ee8faa1d4784940291479deedb69c530b9c59f464403c79"
+  },
+  {
+    "username": "manager",
+    "path": "/page/reports/report-dashboard",
+    "sha256": "eab487543dba29ab1a4267c4c3e3e02541c781445f4eebf8bfff7d7fce5a0808"
+  },
+  {
+    "username": "manager",
+    "path": "/page/reports/export-history",
+    "sha256": "bb087975ee9e2d269c0b7b0f84ffc124aa50adbe0af32487a9119193212622c9"
+  },
+  {
+    "username": "manager",
+    "path": "/module/account",
+    "sha256": "9eddea7c8131160ed428f69e957ae78801c9dcc921ad8984dbc94d5e2830885a"
+  },
+  {
+    "username": "manager",
+    "path": "/page/account/login",
+    "sha256": "835af98c4fd8f48add55ade09ce012c578dc871f3eb5ae75cfb151aab691c00a"
+  },
+  {
+    "username": "manager",
+    "path": "/page/account/forgot-password",
+    "sha256": "50880d88774d4f422840cdfefca8d6f1eb84a67bbfab208e48161442a520a299"
+  },
+  {
+    "username": "manager",
+    "path": "/page/account/reset-password",
+    "sha256": "9c9770e0b8a545a434192dc2f64b72f4f311bcd2e67683b2d0c9457831f9f747"
+  },
+  {
+    "username": "manager",
+    "path": "/page/account/my-profile",
+    "sha256": "0a81dbac0594319088bdd6f51609783fe8bc38a7620e5f7c4117dd3d8db5f043"
+  },
+  {
+    "username": "hr",
+    "path": "/",
+    "sha256": "264c9304c77b772f79e3aab0c39bb6485e74dbf9c34d59499d8abf5475fb7f46"
+  },
+  {
+    "username": "hr",
+    "path": "/module/dashboard",
+    "sha256": "931f1da2f1fa1eaf3bf6341c517184f1e357aeeb8f046f4467940543d46cd528"
+  },
+  {
+    "username": "hr",
+    "path": "/page/dashboard/overview",
+    "sha256": "07fe9f03e3c56c835d394f1bd08e48ef4a1dcdb6320eba52e5b4a0543545bb21"
+  },
+  {
+    "username": "hr",
+    "path": "/page/dashboard/activity-feed",
+    "sha256": "0d29088723d73362df77786493dfb9a403514c9fb15da214685b6f9f00cbc800"
+  },
+  {
+    "username": "hr",
+    "path": "/page/dashboard/calendar",
+    "sha256": "f73306d33a01fe38c223ae455b0392aee5fbc20a4d617d26098c11e432d9bbc5"
+  },
+  {
+    "username": "hr",
+    "path": "/module/hr",
+    "sha256": "dba88c72dcba1b502698896cc0f7394105291e4b56aefae7cbe633edff057282"
+  },
+  {
+    "username": "hr",
+    "path": "/page/hr/employees",
+    "sha256": "933fe48a491dd5b2c014d131af5c85422796ee63e82f4f947c23ac3d0641f5fd"
+  },
+  {
+    "username": "hr",
+    "path": "/page/hr/employee-detail",
+    "sha256": "5f252c9b294bc5f1c94240ebe3daf153f7f64c796c33640cb7e5f37acabb3728"
+  },
+  {
+    "username": "hr",
+    "path": "/page/hr/departments",
+    "sha256": "80769de5339d9d0ae87b28dc93c62d54250b96679b865a555ad5c6051c2203d0"
+  },
+  {
+    "username": "hr",
+    "path": "/page/hr/attendance",
+    "sha256": "3f37edbbc725b79007aef1ebc8e1b9096af2696cf6742774084c12bdcd0cc28a"
+  },
+  {
+    "username": "hr",
+    "path": "/page/hr/leave-requests",
+    "sha256": "a162cdcf2d33b41495b04ccde9b772aff9504f9301f732cc706ae857071620ab"
+  },
+  {
+    "username": "hr",
+    "path": "/module/projects",
+    "sha256": "b66e15d4a05f95549ab4608c3092ad526eaf7cc4cd1ce231a4dd505189893a04"
+  },
+  {
+    "username": "hr",
+    "path": "/page/projects/projects",
+    "sha256": "44a2c00fe780b10cbf1e787af2a749efa24e15812b60f9723f0845d3a2a68c67"
+  },
+  {
+    "username": "hr",
+    "path": "/page/projects/project-detail",
+    "sha256": "faeb4cafbecf64199533d34c47f6df505f84dab4bb3cb72e8daa6529ff3b55ab"
+  },
+  {
+    "username": "hr",
+    "path": "/page/projects/tasks",
+    "sha256": "b444a84882272dc9fa74e53107ca81befb6f36fbb3c833e41f52c67a749ff5dc"
+  },
+  {
+    "username": "hr",
+    "path": "/page/projects/task-detail",
+    "sha256": "8c68d56c2faee8abe60bf03ce6fa3ca79ddf63ce5ea816eb17f9da5aa9edeb92"
+  },
+  {
+    "username": "hr",
+    "path": "/page/projects/milestones",
+    "sha256": "6f125997e6a360e534996ee1baab496f3521022670fc07255921bc529b87dd40"
+  },
+  {
+    "username": "hr",
+    "path": "/page/projects/team-members",
+    "sha256": "6940a012cf8d877f9260c42b8e40ab5b370b2197686b1593d6b8d4287d8a4ffc"
+  },
+  {
+    "username": "hr",
+    "path": "/module/documents",
+    "sha256": "80f37a222aa265a6d97604c595ec96435cd3c3ce775d0cee47f1cf4ffbb4bc44"
+  },
+  {
+    "username": "hr",
+    "path": "/page/documents/explorer",
+    "sha256": "6bf4a0c2988fe23b5474f36d4e9512d2998db4bb2801667dc5260ac1504619a9"
+  },
+  {
+    "username": "hr",
+    "path": "/page/documents/folder-detail",
+    "sha256": "5e840d8817587fea8ca7bd136693c57dd52cb5f466b1ad16a028a5965863cb84"
+  },
+  {
+    "username": "hr",
+    "path": "/page/documents/document-detail",
+    "sha256": "e86c9c58e171d9d68438ab314a14b49f5b096f11751d49638421429d9224eb6e"
+  },
+  {
+    "username": "hr",
+    "path": "/page/documents/upload",
+    "sha256": "2d4ed116513d3968b29f993520315b69513e1c3af35886d35dce6e1ca3ed1e99"
+  },
+  {
+    "username": "hr",
+    "path": "/page/documents/shared-documents",
+    "sha256": "bdaee7db2d135fb3ff5afa0580a959309ee087170dad2e73bc1749367d628918"
+  },
+  {
+    "username": "hr",
+    "path": "/module/helpdesk",
+    "sha256": "d06bbdec58039b9198ada37a6f93931a63b1001e4f802c2300cb9be43a2f7c9a"
+  },
+  {
+    "username": "hr",
+    "path": "/page/helpdesk/tickets",
+    "sha256": "eaf4d321bb47171c0229eba7c3d4850bc1ff959ce518ac2126a1f5e8c6a81041"
+  },
+  {
+    "username": "hr",
+    "path": "/page/helpdesk/create-ticket",
+    "sha256": "8ce302cbdbca9f5af47b6032f4d12933ec6cf487bf1577126332c31e4238a2a5"
+  },
+  {
+    "username": "hr",
+    "path": "/page/helpdesk/ticket-detail",
+    "sha256": "0faa736af1b24fea3e8597749f546659efe0376e6c18d09df2e721ee0d16d29c"
+  },
+  {
+    "username": "hr",
+    "path": "/page/helpdesk/ticket-comments",
+    "sha256": "90b4f3afa9cfdd07206637787537b6cc49c5bf47971184e075ea833d9a796e1d"
+  },
+  {
+    "username": "hr",
+    "path": "/page/helpdesk/knowledge-base",
+    "sha256": "f1511ed6363d11b3f816bb02e53f3825f21233e0012c2098037e7549656800c3"
+  },
+  {
+    "username": "hr",
+    "path": "/module/assets",
+    "sha256": "5ad14cdc375cd10c8dabffb2d70491e8259815f9aa9ec51318059a27732dc6c7"
+  },
+  {
+    "username": "hr",
+    "path": "/page/assets/assets",
+    "sha256": "b0ee217847bcbf42d4e308528c46a71057479466f027a4a382fac577679a65c4"
+  },
+  {
+    "username": "hr",
+    "path": "/page/assets/asset-detail",
+    "sha256": "8a1e51801a85ff60b27a9179985b84b3670030a11f9b053844e6131a8e7c788e"
+  },
+  {
+    "username": "hr",
+    "path": "/page/assets/borrowing",
+    "sha256": "545c4acc67ee692a10130e940c04d0b2a41810ee35920cf8a7bfcdb3447fbe7b"
+  },
+  {
+    "username": "hr",
+    "path": "/page/assets/return-history",
+    "sha256": "bb0263685a97a5df63f5217eeb09c1a0bf984b5cd1e687ab8ec02e3b0d177a57"
+  },
+  {
+    "username": "hr",
+    "path": "/module/finance",
+    "sha256": "51915608a4c49cc0ad040992f787ea18c7181de4f969ec9304af19cd96925d35"
+  },
+  {
+    "username": "hr",
+    "path": "/page/finance/expense-requests",
+    "sha256": "8e6574b0f030829efa6d0c090242eeed1ce353ef1e30e57aed79fa8b7a780cba"
+  },
+  {
+    "username": "hr",
+    "path": "/page/finance/expense-detail",
+    "sha256": "b65f36babb9496e84669080eb046cf45dd59e69ad632b40399806704b41a5fe2"
+  },
+  {
+    "username": "hr",
+    "path": "/module/reports",
+    "sha256": "c4c8820cf25625336aa4138dbfe8642f26f1fd6d92fc077252716587580ab29d"
+  },
+  {
+    "username": "hr",
+    "path": "/page/reports/report-dashboard",
+    "sha256": "686e4ec512dc7f5489c5dde5fe7bb126d16179f6f869af5c879d5c1e66b07fd3"
+  },
+  {
+    "username": "hr",
+    "path": "/page/reports/report-builder",
+    "sha256": "fc2f3c362a5b8b64cce72f3d2011bab23c9f2103e7340e5e7a2d90cf575cebb7"
+  },
+  {
+    "username": "hr",
+    "path": "/page/reports/export-history",
+    "sha256": "36e31a5dcf1c9b099f30aa56fc4a1441894fedbef70b19928d3fcdde8a9323fe"
+  },
+  {
+    "username": "hr",
+    "path": "/module/account",
+    "sha256": "9766d3eb5d0c8c8ac469875bf4031fed19c84ff85c66d06f867c687141caca1b"
+  },
+  {
+    "username": "hr",
+    "path": "/page/account/login",
+    "sha256": "ab303e83b2e09f30cfb6cd7d437cfdbf323077aa7908ac901c231680845f815d"
+  },
+  {
+    "username": "hr",
+    "path": "/page/account/forgot-password",
+    "sha256": "db3a4558e9daa4d9d1b8080d3e24ed2423993f38fccda34dd3db401a5378031e"
+  },
+  {
+    "username": "hr",
+    "path": "/page/account/reset-password",
+    "sha256": "ad85a0de0fe6803370f8bc173a00bb380554ac8860a4c8202d6a63bdea6eb228"
+  },
+  {
+    "username": "hr",
+    "path": "/page/account/my-profile",
+    "sha256": "58b63a43de2c9400980ed156f247c62fee536a67c67fbfab543383d36ee2d6fc"
+  },
+  {
+    "username": "admin",
+    "path": "/",
+    "sha256": "1bac816eb11d168a5cc454e1b198b0d099879a95ec8a8f6a9feac816588ccffa"
+  },
+  {
+    "username": "admin",
+    "path": "/module/dashboard",
+    "sha256": "1e579c99ec06c44571955e04e2dbefde4f8a433089e5c868579551aa4c0015b8"
+  },
+  {
+    "username": "admin",
+    "path": "/page/dashboard/overview",
+    "sha256": "94111b3580def1fced3e2ce4fbca6e9e7424c45c87950e78b516e11c902790ce"
+  },
+  {
+    "username": "admin",
+    "path": "/page/dashboard/activity-feed",
+    "sha256": "ad691fcf70f777920266018b24a4da75efa75caacd26f6bd335826fe006f9dd7"
+  },
+  {
+    "username": "admin",
+    "path": "/page/dashboard/calendar",
+    "sha256": "5977b5191e13115d6166c6883d96642058d20558f257af1419750864caf10059"
+  },
+  {
+    "username": "admin",
+    "path": "/module/hr",
+    "sha256": "72f7f77ced00c16a59b6bee6fe3f2a77b6ff730611322b629ae4a7bfc1011d42"
+  },
+  {
+    "username": "admin",
+    "path": "/page/hr/employees",
+    "sha256": "9ddb0214575e306c59d8c3ac67abc9a6fde58fc347706c6dcd2022d2bb4da821"
+  },
+  {
+    "username": "admin",
+    "path": "/page/hr/employee-detail",
+    "sha256": "7ba63215e40966924a8157393b2586a412a506de3349e9fd9150572d30bd46a6"
+  },
+  {
+    "username": "admin",
+    "path": "/page/hr/departments",
+    "sha256": "8faed773052bc6f48466f9eb83e7f6d311d8e1c87768f1ca2c9fbc71099421d6"
+  },
+  {
+    "username": "admin",
+    "path": "/page/hr/attendance",
+    "sha256": "46d1e4b9c450c8b17bac32c7973d46e57bcb348e24f7825be7564e681640e089"
+  },
+  {
+    "username": "admin",
+    "path": "/page/hr/leave-requests",
+    "sha256": "45d27bb77307698cfc879ba33406d8bd0bf9c0b68063cccada98020d1aa6c3da"
+  },
+  {
+    "username": "admin",
+    "path": "/module/projects",
+    "sha256": "36c704f66327e998e722cbe76c238a7b0a8c5456c7148f5d89d7e3069e1a6391"
+  },
+  {
+    "username": "admin",
+    "path": "/page/projects/projects",
+    "sha256": "cb1a09c23f03be0659d75532ad4f4c9cf4c70e776e4cd1b5444dffc688dd5c04"
+  },
+  {
+    "username": "admin",
+    "path": "/page/projects/project-detail",
+    "sha256": "f971e9594ce4852658fceb78cad915784b7fc4f562fd3cb664d1bf9f9d476505"
+  },
+  {
+    "username": "admin",
+    "path": "/page/projects/tasks",
+    "sha256": "0922db6dcae94a36a16ceeb517266c47b6d223db1df122cb10d5baf2a0a3ef3d"
+  },
+  {
+    "username": "admin",
+    "path": "/page/projects/task-detail",
+    "sha256": "3522c1aaac5b92145a49bb939045d2b6bd4ed674c83b008703646f7b9843c402"
+  },
+  {
+    "username": "admin",
+    "path": "/page/projects/milestones",
+    "sha256": "b3200f697d4bddce5606d671977edd3c26e06d943ac836d289fa2b991ebac739"
+  },
+  {
+    "username": "admin",
+    "path": "/page/projects/team-members",
+    "sha256": "53bb6063de2ad4e3b0dd3977f39da00f400c54c705b55c6eb2f77fb9c26c841c"
+  },
+  {
+    "username": "admin",
+    "path": "/module/documents",
+    "sha256": "10e2a16ec5b03533bd28e8128f739160efd895b581ffe45206f868c303b19645"
+  },
+  {
+    "username": "admin",
+    "path": "/page/documents/explorer",
+    "sha256": "99988c01f59aea08b7f7e8b5642ff92d70d722b4152778fd72d1e91f605cf2a2"
+  },
+  {
+    "username": "admin",
+    "path": "/page/documents/folder-detail",
+    "sha256": "f257d1305211fcd29799feacef17b892d5179d97ed86ba87d33205bb0ae8b52b"
+  },
+  {
+    "username": "admin",
+    "path": "/page/documents/document-detail",
+    "sha256": "80b5077b37c7946640c3c1d114b071d05adf52f962b317f75dedd67de4163664"
+  },
+  {
+    "username": "admin",
+    "path": "/page/documents/upload",
+    "sha256": "1eac99f48f51d8a4fe4bff9fff589af39467f185c258e56efbe13b9750e89b62"
+  },
+  {
+    "username": "admin",
+    "path": "/page/documents/shared-documents",
+    "sha256": "507db731a810d01728f9c1388fcb7c6e23fe28668d35ed08f1174fb43b789e0d"
+  },
+  {
+    "username": "admin",
+    "path": "/module/helpdesk",
+    "sha256": "dffa39572fd79a9d4057a927a5ca41b93379679dbc9fbda09c46ba5ca7debb09"
+  },
+  {
+    "username": "admin",
+    "path": "/page/helpdesk/tickets",
+    "sha256": "66dc1ad321ddc6976e717cc0661416a05ae518a723c3c4c8d5ca773d32da9288"
+  },
+  {
+    "username": "admin",
+    "path": "/page/helpdesk/create-ticket",
+    "sha256": "4e174417d0031af35b5f8ca813460d8e3daba419557b9e72dc2f9ada8cd12616"
+  },
+  {
+    "username": "admin",
+    "path": "/page/helpdesk/ticket-detail",
+    "sha256": "bd9c3d628f9771d1b2360fc9bc52aaa3f6d4028819c8c59c0c4374690b1ae6c3"
+  },
+  {
+    "username": "admin",
+    "path": "/page/helpdesk/ticket-comments",
+    "sha256": "468593b9b5d0a18bdc8ee5e1bc2a3a7ac71564f23bb1d2da8b46a408ade3ea8d"
+  },
+  {
+    "username": "admin",
+    "path": "/page/helpdesk/knowledge-base",
+    "sha256": "e27f76a603068a6109705214226b7abf2ed73664130a5a29cbb44c8bba8ef121"
+  },
+  {
+    "username": "admin",
+    "path": "/module/assets",
+    "sha256": "5daf385ab2f4ed41861f8669a2ca1a3f5c03332d1634d949a8702611d28afe06"
+  },
+  {
+    "username": "admin",
+    "path": "/page/assets/assets",
+    "sha256": "0f70d4c2efb9f9141e55c55c9673e28de017c73581642fe7ebbf2a051a01e4be"
+  },
+  {
+    "username": "admin",
+    "path": "/page/assets/asset-detail",
+    "sha256": "b43f0594cd60b978c3e19c83a166aa0e34b82def066a2a5004d4692cd6d12b4a"
+  },
+  {
+    "username": "admin",
+    "path": "/page/assets/borrowing",
+    "sha256": "6a7bf41869e7523dc3a3167504a7d54d2560b2d1d8e9fd3b7c573aec8196fd76"
+  },
+  {
+    "username": "admin",
+    "path": "/page/assets/return-history",
+    "sha256": "d501ac98611739fab326db878cd1c1fa00e23c3ce198680d61a1c539a6aca6d8"
+  },
+  {
+    "username": "admin",
+    "path": "/module/finance",
+    "sha256": "d176effd09f094749fd3719f35d5729842c755106f4fe45003ebe3360db47483"
+  },
+  {
+    "username": "admin",
+    "path": "/page/finance/expense-requests",
+    "sha256": "6dd950ceec6ec8dccf64839635572e38d1a625c1bdb96763169e012ba993c85c"
+  },
+  {
+    "username": "admin",
+    "path": "/page/finance/expense-detail",
+    "sha256": "c750548aa4325314cf360ad7d4c360ade5d8385dabc764f8bb72cc9cf76b7bb5"
+  },
+  {
+    "username": "admin",
+    "path": "/page/finance/approval-queue",
+    "sha256": "bc60bdc371e9e628938634fd8962e4054b0cc8dbb5eb78c6014968f56e0f0504"
+  },
+  {
+    "username": "admin",
+    "path": "/page/finance/payment-history",
+    "sha256": "f09ff7a6b28302b9c8e66a0cc65021ba169674950e502442f2518f41cab62956"
+  },
+  {
+    "username": "admin",
+    "path": "/module/reports",
+    "sha256": "3e51ea5d16da7390d302c53baa836667498c79db0cba58c7ad8293b4c636f7ca"
+  },
+  {
+    "username": "admin",
+    "path": "/page/reports/report-dashboard",
+    "sha256": "aaf24296022b18937a4abac79102e9bf7198d6badf003de3b29a167179c244e0"
+  },
+  {
+    "username": "admin",
+    "path": "/page/reports/report-builder",
+    "sha256": "62c69ef7377fada70ac0a500bde97fc5dfcd51db7f01eb7ed099de1ae9e42f7c"
+  },
+  {
+    "username": "admin",
+    "path": "/page/reports/export-history",
+    "sha256": "b165eb0ed76a228ada26d0e8688b06543f511c5f2636659adfa747ac26b6b29b"
+  },
+  {
+    "username": "admin",
+    "path": "/module/admin",
+    "sha256": "c9bc7dd385414553b132a058452aceedb88e4c9a6de2686cb59c4675f4b646fd"
+  },
+  {
+    "username": "admin",
+    "path": "/page/admin/users",
+    "sha256": "381a11be543e4d29adc7419de88ec208776187485798f1df7431b876c9df7d1e"
+  },
+  {
+    "username": "admin",
+    "path": "/page/admin/roles",
+    "sha256": "879b31fe153075f25ed3ddeec2828652cc7ee9774de68226d0f143d55912a911"
+  },
+  {
+    "username": "admin",
+    "path": "/page/admin/settings",
+    "sha256": "8e44ec033505ffddbd31f4c5661e9cd907c8206b1b30937a73220dad2005ace4"
+  },
+  {
+    "username": "admin",
+    "path": "/page/admin/audit-logs",
+    "sha256": "2ba5a6495e49aa3339030c30ebb695c11369f3d59fa7a166dea4d6ced5130edc"
+  },
+  {
+    "username": "admin",
+    "path": "/page/admin/notifications",
+    "sha256": "5afa19bda876ce0639cf9c899dcc40ffc59aa7d144b27cf4a1c5ac044407db2d"
+  },
+  {
+    "username": "admin",
+    "path": "/module/account",
+    "sha256": "c3624be03643dd884e31ce7844238be76bfc046f56cc7b209f42f0cc86b720e3"
+  },
+  {
+    "username": "admin",
+    "path": "/page/account/login",
+    "sha256": "739edcdae77f776df2866b8cebfd0404475cfa6b65fe19f14687a3d6f827d382"
+  },
+  {
+    "username": "admin",
+    "path": "/page/account/forgot-password",
+    "sha256": "ec54fe52c5b1a03298ca8017292ac882c4cddea5d11095dec31757917af4ff40"
+  },
+  {
+    "username": "admin",
+    "path": "/page/account/reset-password",
+    "sha256": "f1e99bbb280bf982ab9789cffb8f42142c83930fb47f88ba1747c05bb9a136ab"
+  },
+  {
+    "username": "admin",
+    "path": "/page/account/my-profile",
+    "sha256": "dc8c80792db48b149a93b1e37a40a85249e1e28f761bf11d2a2727e37318a94d"
+  },
+  {
+    "username": null,
+    "path": "/login",
+    "sha256": "eda87e7d1f9a8c8d810b1f402a51fef6be6b834a62b6eafa2cb1d3389f1bd54e"
+  }
+]

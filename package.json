@@ -1,0 +1,33 @@
+{
+  "name": "moklet-uuk-portal",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.13.0 <23"
+  },
+  "scripts": {
+    "dev": "next dev --hostname 0.0.0.0 --port 1992",
+    "build": "next build",
+    "start": "node --env-file-if-exists=.env server.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "test:integration": "node --test tests/integration.mjs",
+    "test:docker": "node --test tests/docker.mjs",
+    "audit:lab": "npm audit",
+    "audit:runtime": "npm audit --omit=dev",
+    "test:vulns": "node tests/vulnerabilities.mjs"
+  },
+  "dependencies": {
+    "mariadb": "3.5.5",
+    "next": "16.4.6",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "devDependencies": {
+    "cookie": "0.6.0",
+    "cross-spawn": "7.0.3",
+    "lodash": "4.17.4",
+    "serialize-javascript": "1.9.0",
+    "tough-cookie": "4.1.2"
+  }
+}
